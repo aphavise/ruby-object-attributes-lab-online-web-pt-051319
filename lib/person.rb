@@ -11,7 +11,7 @@ class Person
   end
   
   def name =(name)
-    @name = dogname
+    @name=name
   end
   
   def breed 
