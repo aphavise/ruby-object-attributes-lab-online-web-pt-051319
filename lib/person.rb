@@ -14,12 +14,12 @@ class Person
     @name=name
   end
   
-  def breed 
-    @breed
+  def job 
+    @job
   end
   
-  def breed=(dog)
-    @breed=dog
+  def job=(job)
+    @job=job
   end
   
   
